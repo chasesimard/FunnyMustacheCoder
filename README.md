@@ -1,10 +1,10 @@
 <img src="./banner_github.webp" alt="GitHub Banner" width="100%" />
 
-# Hi 👋, I'm Alex
+# Hi 👋, I'm Chase
 
-✨ Innovative fullstack developer with a passion for clean code and intuitive UX | MIT xPRO certified in MERN stack development | Building digital solutions that make a difference
+✨ Innovative fullstack developer with a passion for clean code and intuitive UX | 5+ Years of Experience varying from AI Development to Database Engineering and Reporting
 
-- 🚀 Full stack developer since 2025
+- 🚀 Full stack developer 5+ Years Industry Experience
 - 💻 Passionate about creating responsive, user-friendly web applications
 - 🌱 Constantly learning and exploring new technologies
 - 🔧 Specializing in building scalable applications with modern JavaScript frameworks
