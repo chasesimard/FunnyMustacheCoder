@@ -1,3 +1,6 @@
+![ChatGPT GitHub Banner](https://github.com/user-attachments/assets/77b08ee0-b581-4d19-b336-44a0b64e5369)
+
+
 # Hi 👋, I'm Chase
 
 ✨ Innovative fullstack developer with a passion for clean code and intuitive UX | 5+ Years of Experience varying from AI Development to Database Engineering and Reporting
